@@ -1,0 +1,33 @@
+{
+    "code": "200",
+    "configs": [
+        {
+            "id": "state_show_red_bao",
+            "val": "0"
+        },
+        {
+            "id": "state_show_reward",
+            "val": "0"
+        },
+        {
+            "id": "state_show_red_bao_nav",
+            "val": "1"
+        },
+        {
+            "id": "state_show_reward_nav",
+            "val": "0"
+        },
+        {
+            "id": "url_share",
+            "val": "https://fir.im/bx0"
+        },
+        {
+            "id": "version",
+            "val": "7"
+        },
+        {
+            "id": "code_red_bao",
+            "val": "633353301"
+        }
+    ]
+}
